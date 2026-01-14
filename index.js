@@ -5,8 +5,8 @@ const express = require('express');
 const ig = new IgApiClient();
 
 // Group Info
-const THREAD_ID = "794932516795889"; // <-- यहां अपना Instagram group thread id डालो
-const LOCKED_NAME = "🔥 GROUP LOCKED 🔥";
+const THREAD_ID = "1533701144515894"; // <-- यहां अपना Instagram group thread id डालो
+const LOCKED_NAME = "🔥 GROUP LOCKED 🔥by  irfan daddy ";
 
 // Express server (Render/Heroku/Termux keepalive)
 const app = express();
